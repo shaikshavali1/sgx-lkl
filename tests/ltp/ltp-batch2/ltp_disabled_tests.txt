@@ -884,7 +884,7 @@
 #/ltp/testcases/kernel/syscalls/sigaction/sigaction02
 #/ltp/testcases/kernel/syscalls/sigaltstack/sigaltstack01
 #/ltp/testcases/kernel/syscalls/sigaltstack/sigaltstack02
-/ltp/testcases/kernel/syscalls/sighold/sighold02
+#/ltp/testcases/kernel/syscalls/sighold/sighold02
 #/ltp/testcases/kernel/syscalls/signal/signal01
 #/ltp/testcases/kernel/syscalls/signal/signal02
 #/ltp/testcases/kernel/syscalls/signal/signal03
